@@ -2,7 +2,7 @@
 const cors = require("cors")
 const express = require("express")
 const ip = require("ip")
-const bch = require("bitcore-lib-cash")
+const bch = require("bitcore-lib-dvt")
 const defaults = { port: 3001 }
 const init = function(config) {
   let app = (config.app ? config.app : express())

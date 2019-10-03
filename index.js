@@ -1,5 +1,5 @@
 module.exports = {
-  bitcore:    require('bitcore-lib-cash'),
+  bitcore:    require('bitcore-lib-dvt'),
   rpc:        require('./bitcoind-rpc'),
   bcode:      require('./bcode'),
   bigjq:      require('./bigjq'),
