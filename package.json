@@ -1,5 +1,5 @@
 {
-  "name": "fountainhead-core",
+  "name": "dvt-bitdb-core",
   "version": "0.0.12",
   "description": "Fountainhead suite: bcode, bigjq, tna, bitqueryd, bitsocketd, and slp variants",
   "main": "index.js",
