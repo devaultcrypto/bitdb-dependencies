@@ -1,0 +1,13 @@
+{
+  "name": "dvt-tna",
+  "version": "0.1.2",
+  "description": "Transaction Nucleic Acid",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bitcore-lib-cash": "^8.1.2",
+    "bitcoind-rpc": "^0.7.2",
+    "dotenv": "^6.0.0"
+  }
+}
